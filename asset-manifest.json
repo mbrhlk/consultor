@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/consultor/static/css/main.35c30bd2.chunk.css",
+    "main.js": "/consultor/static/js/main.168746cc.chunk.js",
+    "main.js.map": "/consultor/static/js/main.168746cc.chunk.js.map",
+    "runtime-main.js": "/consultor/static/js/runtime-main.d13b3ac9.js",
+    "runtime-main.js.map": "/consultor/static/js/runtime-main.d13b3ac9.js.map",
+    "static/js/2.0b95dc9b.chunk.js": "/consultor/static/js/2.0b95dc9b.chunk.js",
+    "static/js/2.0b95dc9b.chunk.js.map": "/consultor/static/js/2.0b95dc9b.chunk.js.map",
+    "static/js/3.a08d24a9.chunk.js": "/consultor/static/js/3.a08d24a9.chunk.js",
+    "static/js/3.a08d24a9.chunk.js.map": "/consultor/static/js/3.a08d24a9.chunk.js.map",
+    "index.html": "/consultor/index.html",
+    "static/css/main.35c30bd2.chunk.css.map": "/consultor/static/css/main.35c30bd2.chunk.css.map",
+    "static/js/2.0b95dc9b.chunk.js.LICENSE.txt": "/consultor/static/js/2.0b95dc9b.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/consultor/static/media/hero-img.41dbeca6.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d13b3ac9.js",
+    "static/js/2.0b95dc9b.chunk.js",
+    "static/css/main.35c30bd2.chunk.css",
+    "static/js/main.168746cc.chunk.js"
+  ]
+}
